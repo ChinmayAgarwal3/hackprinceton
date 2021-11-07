@@ -6,5 +6,5 @@ On our E-commerce app UI has two pages one for the product page which has a hori
 
 ### E-commerce App Demo
 
-![intro](intro.gif)
+![intro](new intro.gif)
 
