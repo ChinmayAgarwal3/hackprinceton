@@ -8,3 +8,7 @@ On our E-commerce app UI has two pages one for the product page which has a hori
 
 ![intro](new_intro.gif)
 
+
+By
+powerchord#1453
+chinmayaswami#1728
